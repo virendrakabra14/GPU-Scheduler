@@ -12,7 +12,8 @@
     - `--header`: Row number of header of CSV. Write `None` if there is no header
     - `--mps`: Specify whether to use Nvidia MPS (Multi-Process Service)
     - `--thread_percentage`: Limit on per-process percentage of threads. Supported via an MPS option.
-- Suppose there are 150 tasks in the CSV, and we take 20 tasks (set by `--num`) in a single go. The scheduler sequentially takes batches of 20 (7 times, and a batch of 10 once), and runs the commands.
+- Suppose there are 50 tasks in the CSV, and we take 20 tasks (set by `--num`) in a single go. The scheduler sequentially takes batches of 20 (2 times, and a batch of 10 once), and runs the commands.
+- To run with default tasks: Copy `commands.csv` to `commands_1.csv` in `scheduler_files/`. Run `python scheduler.py`.
 
 ### Working and Features
 - Implementation:
