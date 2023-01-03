@@ -1,0 +1,82 @@
+        Process ID                        : 695572
+            Used GPU Memory               : 9 MiB
+        Process ID                        : 695684
+            Used GPU Memory               : 4 MiB
+        Process ID                        : 909245
+            Used GPU Memory               : 25 MiB
+        Process ID                        : 695572
+            Used GPU Memory               : 9 MiB
+        Process ID                        : 695684
+            Used GPU Memory               : 4 MiB
+        Process ID                        : 909245
+            Used GPU Memory               : 25 MiB
+        Process ID                        : 695572
+            Used GPU Memory               : 9 MiB
+        Process ID                        : 695684
+            Used GPU Memory               : 4 MiB
+        Process ID                        : 909245
+            Used GPU Memory               : 25 MiB
+        Process ID                        : 929396
+            Used GPU Memory               : 391 MiB
+        Process ID                        : 695572
+            Used GPU Memory               : 9 MiB
+        Process ID                        : 695684
+            Used GPU Memory               : 4 MiB
+        Process ID                        : 909245
+            Used GPU Memory               : 25 MiB
+        Process ID                        : 929396
+            Used GPU Memory               : 713 MiB
+        Process ID                        : 695572
+            Used GPU Memory               : 9 MiB
+        Process ID                        : 695684
+            Used GPU Memory               : 4 MiB
+        Process ID                        : 909245
+            Used GPU Memory               : 25 MiB
+        Process ID                        : 929396
+            Used GPU Memory               : 1045 MiB
+        Process ID                        : 695572
+            Used GPU Memory               : 9 MiB
+        Process ID                        : 695684
+            Used GPU Memory               : 4 MiB
+        Process ID                        : 909245
+            Used GPU Memory               : 25 MiB
+        Process ID                        : 929396
+            Used GPU Memory               : 1399 MiB
+        Process ID                        : 695572
+            Used GPU Memory               : 9 MiB
+        Process ID                        : 695684
+            Used GPU Memory               : 4 MiB
+        Process ID                        : 909245
+            Used GPU Memory               : 25 MiB
+        Process ID                        : 929396
+            Used GPU Memory               : 1819 MiB
+        Process ID                        : 695572
+            Used GPU Memory               : 9 MiB
+        Process ID                        : 695684
+            Used GPU Memory               : 4 MiB
+        Process ID                        : 909245
+            Used GPU Memory               : 25 MiB
+        Process ID                        : 929396
+            Used GPU Memory               : 1819 MiB
+        Process ID                        : 695572
+            Used GPU Memory               : 9 MiB
+        Process ID                        : 695684
+            Used GPU Memory               : 4 MiB
+        Process ID                        : 909245
+            Used GPU Memory               : 25 MiB
+        Process ID                        : 929396
+            Used GPU Memory               : 1819 MiB
+        Process ID                        : 695572
+            Used GPU Memory               : 9 MiB
+        Process ID                        : 695684
+            Used GPU Memory               : 4 MiB
+        Process ID                        : 909245
+            Used GPU Memory               : 25 MiB
+        Process ID                        : 929396
+            Used GPU Memory               : 1753 MiB
+        Process ID                        : 695572
+            Used GPU Memory               : 9 MiB
+        Process ID                        : 695684
+            Used GPU Memory               : 4 MiB
+        Process ID                        : 909245
+            Used GPU Memory               : 25 MiB
